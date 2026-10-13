@@ -77,3 +77,5 @@ La guarida principal de la Legión del Mal. Lex Luthor la construyó dentro de u
 
 _Última inspección de seguridad: hace 47 días._
 _Próxima inspección: pendiente. Brainiac insiste en que debería ser esta semana._
+
+Atte. David H Ch
